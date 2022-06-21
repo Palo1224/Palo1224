@@ -1,6 +1,6 @@
 
 
-![Port]![9f850aaeba4288a615793c6045360cea](https://user-images.githubusercontent.com/47754688/174692961-5d669631-9d6e-4196-8fa7-13f6c401e530.jpg)
+![9f850aaeba4288a615793c6045360cea](https://user-images.githubusercontent.com/47754688/174692961-5d669631-9d6e-4196-8fa7-13f6c401e530.jpg)
 
 <h1 align="center"> Hola, Mi nombre es Paloma! 👋 :computer: </h1>
 
