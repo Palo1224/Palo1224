@@ -6,7 +6,7 @@
 
 <h3 align="center">Full Stack Developer ❤️ desde Argentina</h3>
 <br></br>
-<h3>⭐Skills:</h3>
+<h3>⭐Tecnologias:</h3>
 <p>
     <img style="margin: 10px;" alt='HTML' margin width=50px src='./assets/html-logo1.png'/>
     <img style="margin: 10px;" alt='CSS' width=50px src='./assets/css-logo.png'/>
@@ -37,10 +37,7 @@
     <a href="https://www.linkedin.com/in/palomavaira/">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="20" />
     </a>
-  
-    <a href="https://github.com/Palo1224">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="20" width="20" />
-    </a>
+ 
 <p/>
 
 <hr/>
