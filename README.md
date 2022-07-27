@@ -26,7 +26,7 @@
 
 <div>
   <p>
-    Soy una persona que me gusta mucho aprender cosas nuevas, me encanta los desafios y salir mi zona de confort 
+    Soy una persona que me gusta mucho aprender cosas nuevas, me encanta los desafios y salir de mi zona de confort 
   </p>
 </div>
 
