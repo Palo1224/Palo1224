@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center"> Hola, Mi nombre es Paloma! 👋 :computer: </h1>
+<h1 align="center"> Hola, mi nombre es Paloma! 👋 :computer: </h1>
 
 <h3 align="center">Full Stack Developer ❤️ desde Argentina</h3>
 <br></br>
