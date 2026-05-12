@@ -1,4 +1,4 @@
-<h1 align="center">¡Holi! Soy Paloma Vaira 👋</h1>
+<h1 align="center">Holi! Soy Paloma Vaira 👋</h1>
 
 <h3 align="center">Desarrolladora Full Stack | Especialista en IA y Automatización (n8n) 🤖</h3>
 
